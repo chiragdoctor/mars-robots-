@@ -9,11 +9,11 @@ This is the Red Badger developer test. The implementation of this test is writte
 ## How to Run 
 ***
 
-First checkout the project and then do 
+First checkout the project and then install required dependencies  
 
 ``` npm install ```
     
-Once it has installed all the dependencies
+Run following command to get the output
     
 ``` node game/game.js ```
     
