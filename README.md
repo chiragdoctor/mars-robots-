@@ -11,11 +11,11 @@ This is the Red Badger developer test. The implementation of this test is writte
 
 First checkout the project and then do 
 
-``` npm install 
+``` npm install ```
     
 Once it has installed all the dependencies
     
-``` node game/game.js
+``` node game/game.js ```
     
 This will output the result to the console.
     
@@ -23,7 +23,7 @@ This will output the result to the console.
 ***
 
 To run tests
-``` npm test 
+``` npm test ```
 
 
     
