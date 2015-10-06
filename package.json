@@ -1,0 +1,15 @@
+{
+  "name": "mars-robots",
+  "version": "1.0.0",
+  "description": "Tool to track reobots on mars.",
+  "main": "index.js",
+  "scripts": {
+    "test" : "mocha ./tests/*.js"
+  },
+  "author": "Chirag Doctor",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3"
+  }
+}
